@@ -1,8 +1,23 @@
 body{
-    font-family: Roboto, sans-serif;
+
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
+    color: #1D1D1D;
+}
+.name{
+    font-size: 16px;
+    line-height: 24px;
+}
+.cost{
+    font-size: 14px;
+    line-height: 21px;
+    color: #626262;
+}
+.time{
+    font-size: 13px;
+    line-height: 21px;
 }
 .food-img{
     max-width: 100%;
