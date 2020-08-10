@@ -22,3 +22,34 @@ body{
 .food-img{
     max-width: 100%;
 }
+.header{
+    height: 72px;
+    box-shadow: 0 0 16px
+    rgba(38, 38, 38, 0.16)
+}
+.button{
+
+    border: 1px solid #E0E0E0;
+    border-radius: 2px;
+    height: 40px;
+    background-color: white;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 24px;
+    display: inline-flex;
+    align-items: center;
+    color: #1D1D1D;
+    /*margin: auto 20px;*/
+}
+#register{
+
+    background: #262626;
+    color: #FFFFFF;
+}
+#shopping-basket{
+    background-image: url("https://images.app.goo.gl/k6X6B12eQ7fu57S77");
+    height: 20px;
+    width: 20px;
+}
