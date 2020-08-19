@@ -19,12 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="699d2131-1013-4077-959c-4c16da5c3b3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/UberEats.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UF.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UberFood.html" beforeDir="false" afterPath="$PROJECT_DIR$/UberFood.html" afterDir="false" />
+    <list default="true" id="699d2131-1013-4077-959c-4c16da5c3b3e" name="Default Changelist" comment="working on header">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +67,105 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596703164114</updated>
-      <workItem from="1596703165199" duration="1877000" />
+      <workItem from="1596703165199" duration="4369000" />
+      <workItem from="1596771919662" duration="961000" />
+      <workItem from="1596789459170" duration="10036000" />
+      <workItem from="1597038748674" duration="5955000" />
+      <workItem from="1597755609132" duration="4857000" />
+      <workItem from="1597849238660" duration="3255000" />
     </task>
+    <task id="LOCAL-00001" summary="попытка №2">
+      <created>1596705303482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596705303482</updated>
+    </task>
+    <task id="LOCAL-00002" summary="попытка №2">
+      <created>1596705335133</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596705335133</updated>
+    </task>
+    <task id="LOCAL-00003" summary="individual css">
+      <created>1596705869749</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596705869749</updated>
+    </task>
+    <task id="LOCAL-00004" summary="individual css">
+      <created>1596706433582</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596706433582</updated>
+    </task>
+    <task id="LOCAL-00005" summary="individual css">
+      <created>1596706567467</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596706567467</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add flexboxgrid">
+      <created>1596800122522</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596800122522</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add flexboxgrid">
+      <created>1596801076632</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596801076632</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add flexboxgrid">
+      <created>1596801292579</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596801292579</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add flexboxgrid">
+      <created>1596803209161</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1596803209161</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add stylesheet">
+      <created>1597044966163</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1597044966163</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add stylesheet">
+      <created>1597046097488</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1597046097488</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add header">
+      <created>1597051703770</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1597051703770</updated>
+    </task>
+    <task id="LOCAL-00013" summary="working on header">
+      <created>1597770191294</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1597770191294</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,8 +181,38 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="попытка №2" />
+    <MESSAGE value="individual css" />
+    <MESSAGE value="add flexboxgrid" />
+    <MESSAGE value="add stylesheet" />
+    <MESSAGE value="add header" />
+    <MESSAGE value="working on header" />
+    <option name="LAST_COMMIT_MESSAGE" value="working on header" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="202" key="#Inspections" timestamp="1597763689912">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="586" y="202" key="#Inspections/0.0.1920.1050@0.0.1920.1050" timestamp="1597763689912" />
+    <state x="659" y="365" key="FileChooserDialogImpl" timestamp="1596705963515">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="659" y="365" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1596705963515" />
+    <state x="184" y="86" key="MergeDialog" timestamp="1596803141922">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1596803141922" />
+    <state x="471" y="343" key="Vcs.Push.Dialog.v2" timestamp="1597770198693">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="471" y="343" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1597770198693" />
+    <state x="777" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597755730205">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="777" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1597755730205" />
   </component>
 </project>
